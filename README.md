@@ -17,7 +17,7 @@ Este comando baixará todas as depêndencias externas utilizadas para o desenvol
 
 Executar o comando no terminal:
 ```bash
-dart run build_runner_watch
+dart run build_runner watch
 ```
 Isso irá instalar os mocks nescessários para rodar os testes do projeto.
 Ao finalizar a atualização e download dos mocks, ainda selecionando o terminal pressione as teclas ```CTR + C``` para finalizar a execução do comando acima.
