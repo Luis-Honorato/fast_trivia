@@ -1,0 +1,639 @@
+{
+    "questionarios": [
+        {
+            "id": 1,
+            "titulo": "Natureza brasileira",
+            "dificuldade": 1,
+            "questoes": [
+                {
+                    "id": 1,
+                    "titulo": "Florestas brasileiras",
+                    "pergunta": "Qual o nome da maior floresta brasileira?",
+                    "gabarito": 4,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "Caatinga"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Cerrado"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Mata Atlântica"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "Amazônica"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Praias brasileiras",
+                    "pergunta": "Qual estado tem a maior faixa litorânea?",
+                    "gabarito": 3,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "São Paulo"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Maranhão"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Bahia"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "Rio de Janeiro"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Fuso horário brasileiro",
+                    "pergunta": "Qual é o fuso horrário oficial do Brasil?",
+                    "gabarito": 2,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "Horário de Fernando de Noronha"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Horário de Brasília"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Horário de Manaus"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "Horário do Acre"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "titulo": "Oceano brasileiro",
+                    "pergunta": "Qual oceano banha a costa brasileira?",
+                    "gabarito": 2,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "Oceano Ártico"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Oceano Atlântico"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Oceano Índico"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "Oceano Pacífico"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "titulo": "Montes brasileiros",
+                    "pergunta": "Qual é o ponto mais alto do Brasil?",
+                    "gabarito": 1,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "Pico da Neblina"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Pico das Agulhas Negras"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Pico do Dedo de Deus"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "Pico da Bandeira"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "Conhecimentos Gerais",
+            "dificuldade": 1,
+            "questoes": [
+                {
+                    "id": 1,
+                    "titulo": "Montanhas mais altas",
+                    "pergunta": "Qual a montanha mais alta do mundo?",
+                    "gabarito": 3,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "Monte Chimborazo"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Dhaulagiri"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Monte Everest"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "Pico da Neblina"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "País com formato",
+                    "pergunta": "Qual país tem o formato de uma bota?",
+                    "gabarito": 1,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "Itália"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Butão"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Portugal"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "México"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Inventor lâmpada",
+                    "pergunta": "Quem foi o inventor da lâmpada?",
+                    "gabarito": 4,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "Henry Ford"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Graham Bell"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Santos Drumont"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "Thomas Edison"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "titulo": "Ponto de Ebulição Água",
+                    "pergunta": "A que temperatura a água ferve?",
+                    "gabarito": 2,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "200° C"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "100° C"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "180° C"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "0° C"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "titulo": "Ossos do corpo humano",
+                    "pergunta": "Quantos ossos temos no nosso corpo?",
+                    "gabarito": 1,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "206"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "126"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "300"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "18"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "titulo": "Astronomia",
+            "dificuldade": 2,
+            "questoes": [
+                {
+                    "id": 1,
+                    "titulo": "Cinturão de asteroides",
+                    "pergunta": "Onde se localiza o cinturão de asteroides?",
+                    "gabarito": 4,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "Entre as órbitas de Mércurio e Vênus"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Entre as órbitas de Urano e Netuno"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Entre as órbitas de Júpiter e Saturno"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "Entre as órbitas de Marte e Júpiter"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Velocidade da Luz",
+                    "pergunta": "Aproximadamente quanto tempo leva para a luz Sol chegar na Terra?",
+                    "gabarito": 1,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "8 minutos e 20 segundos"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "1 dia, 2 horas, 35 minutos e 40 segundos"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "12 segundos"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "2 minutos e 20 segundos"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Constelações",
+                    "pergunta": "Qual o nome da constelação mais próxima do centro da Via Láctea?",
+                    "gabarito": 1,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "Sagitário"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Escorpião"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Capricórnio"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "Peixes"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "titulo": "Galáxia mais próxima",
+                    "pergunta": "Qual o nome da galáxia mais próxima da Via Láctea?",
+                    "gabarito": 2,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "Capricórnio"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Andrômeda"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Sol"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "Órion"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "titulo": "Cometas",
+                    "pergunta": "Qual o nome do mais famoso cometa que passa a cada 76 anos próximo à Terra?",
+                    "gabarito": 4,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "Comenta Hale-Bopp"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Comenta Harley"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Comenta Bennett"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "Comenta Halley"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "titulo": "História",
+            "dificuldade": 2,
+            "questoes": [
+                {
+                    "id": 1,
+                    "titulo": "Homem na Lua",
+                    "pergunta": "Em que ano Neil Armstrong pisou na lua?",
+                    "gabarito": 2,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "1960"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "1969"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "1966"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "1970"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Muro de Berlim",
+                    "pergunta": "Em que ano o Muro de Berlim foi derrubado?",
+                    "gabarito": 3,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "1991"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "1990"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "1989"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "1985"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Presidente do Brasil",
+                    "pergunta": "Quem foi o primeiro presidente ELEITO do Brasil?",
+                    "gabarito": 4,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "Getulio Vargas"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Nilo Peçanha"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Deodor da Fonseca"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "Prudente de Morais"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "titulo": "Politica Americana",
+                    "pergunta": "Qual Presidente dos EUA criou o plano econômico \"New Deal\"?",
+                    "gabarito": 2,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "Hebert Hoover"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Franklin D. Roosevelt"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Theodore Roosevelt"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "Jhon F. Kennedy"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "titulo": "Segunda Guerra",
+                    "pergunta": "Quem era o Primeiro-Ministro Britânico durante a maior parte da 2° Guerra Mundial?",
+                    "gabarito": 3,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "Charles de Gaulle"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Arqueduque Ferdinando"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Winston Churchill"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "Margaret Thatcher"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "titulo": "Geografia",
+            "dificuldade": 3,
+            "questoes": [
+                {
+                    "id": 1,
+                    "titulo": "País mais populoso",
+                    "pergunta": "Qual o País mais poluloso do mundo?",
+                    "gabarito": 4,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "China"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Hong Kong"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Taiwan"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "Índia"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Capital Omã",
+                    "pergunta": "Qual a capital de Omã?",
+                    "gabarito": 4,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "Nicósia"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Nukualofa"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Teerã"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "Mascate"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Ilhas de Tongae",
+                    "pergunta": "O Reino de Tongae é composto por quantas ilhas?",
+                    "gabarito": 2,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "325"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "173"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "137"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "94"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "titulo": "Oceano Pácifico",
+                    "pergunta": "Quem batizou o Oceano Pacífico?",
+                    "gabarito": 4,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "Cristovão Colombo"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Vasco Nuñes de Balboa"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Pero Vaz de Caminha"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "Fernando de Magalhães"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "titulo": "Cidade de Tróia",
+                    "pergunta": "Em qual país está cituada a antiga cidade de Tróia?",
+                    "gabarito": 1,
+                    "alternativas": [
+                        {
+                            "id": 1,
+                            "titulo": "Turquia"
+                        },
+                        {
+                            "id": 2,
+                            "titulo": "Grécia"
+                        },
+                        {
+                            "id": 3,
+                            "titulo": "Chipre"
+                        },
+                        {
+                            "id": 4,
+                            "titulo": "Siria"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
