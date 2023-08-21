@@ -20,6 +20,12 @@ Executar o comando no terminal:
 dart run build_runner watch
 ```
 Isso irá instalar os mocks nescessários para rodar os testes do projeto.
+
+Caso apareça algum conflito como a imagem abaixo:
+![image](https://github.com/Luis-Honorato/fast_trivia/assets/90717674/f9b2ac46-08b5-46e6-9f40-6796ebafcf71)
+
+Pressione a tecla 1
+
 Ao finalizar a atualização e download dos mocks, ainda selecionando o terminal pressione as teclas ```CTR + C``` para finalizar a execução do comando acima.
 
 Foram feitos no total 12 testes para garantir a usabilidade e funcionamento do aplicativo, eles podem ser encontrados na pasta ```/testes``` e acompanham a arquitetura do projeto.
