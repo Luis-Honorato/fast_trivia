@@ -4,8 +4,7 @@
 
 ### Introdução
 
-App desenvolvido como desafio técnico para a vaga de Desenvolvedor Flutter na empresa Checkmob.
-Projeto desenvolvido inteiramente por Luís Honorato.
+App desenvolvido como apresentação de meus principais conhecimentos em Flutter!
 
 ### Como Usar
 
@@ -78,9 +77,8 @@ A biblioteca "mockito" é utilizada para criar mocks das classes durante os test
 A biblioteca "shared_preferences" é empregada para salvar dados localmente. Ela fornece uma maneira fácil de armazenar informações localmente, utilizei ela como Banco de Dados Local.
 
 ### Considerações finais
-
-Agradaço imensamente pela oportunidade de participar do processo seletivo de vocês, entreguei o meu melhor nesse projeto, fiz isso pra demonstrar minha competência técnica e minha vontade de compor o time de vocês, creio que tenho total capacidade de estar somando junto com vocês.
-Sei que não sei de tudo e nem domíno todas as tecnologias existentes, mas me comprometo em me dedicar e aprender quaisquer tecnologias que vocês utilizam e que eu (ainda) não domine.
+Se tiver alguma consideração ou sugestão me chama no linkedin!
+https://www.linkedin.com/in/luis-honorato/
 
 Muito obrigado pela atenção. 
 
